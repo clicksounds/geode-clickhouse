@@ -9,12 +9,12 @@
 	"tags": [
 		"joke"
 	],
-	"id": "n.robtop-jumpscare",
-	"name": "Robtop Jumpscare",
-	"version": "v1.3.7",
-	"developer": "n",
-	"description": "Jumpscare yourself everytime you jump!",
-	"repository": "https://github.com/NicknameGG/robtop-jumpscare",
+	"id": "beat.click-house",
+	"name": "Click House",
+	"version": "v1.0.0",
+	"developer": "Beat",
+	"description": "Plays a house every time you jump.",
+	"repository": "https://github.com/clicksounds/geode-clickhouse",
 	"resources": {
 		"files": [
 			"resources/*.mp3",
