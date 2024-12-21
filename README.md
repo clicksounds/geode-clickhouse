@@ -2,7 +2,7 @@
 
 Plays a house every time you jump.
 
-![house](resources/RobertTopala.png)
+![house](resources/house.png)
 
 ## Features:
 - House
