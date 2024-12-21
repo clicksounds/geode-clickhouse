@@ -1,14 +1,9 @@
-# Robtop Jumpscare
+# Click House
 
-Get jumpscared **every time you jump** by the Robert Topala!
+Plays a house every time you jump.
 
-![robert](resources/RobertTopala.png)
+![house](resources/RobertTopala.png)
 
 ## Features:
-- Robtop might now appear with a 1% chance while youre playing! Check the mod settings to activate it
-
-- Scary!
-- Android support!
-- Works in my machine!
-
+- House
 ### Download now!!!!!!!!!!
