@@ -18,8 +18,6 @@ class $modify(PlayerObject) {
     if (randomizeOption && (randPercent > randomizeOptionChance))
       return;
 
-    FMODAudioEngine::sharedEngine()->playEffect("vine-boom.mp3"_spr);
-
     // If action is running stop it
     if (RobertTopala->getActionByTag(1)) {
       RobertTopala->stopActionByTag(1);
@@ -83,7 +81,7 @@ class $modify(PlayerObject) {
 
     // Create robert if it doesn't exist in scene
     if (!runningScene->getChildByID("robert-topala")) {
-      RobertTopala = CCSprite::create("house.png"_spr);
+      RobertTopala = CCSprite::create("RobertTopala.png"_spr);
       RobertTopala->setID("robert-topala");
       CCSize winSize = CCDirector::get()->getWinSize();
 
